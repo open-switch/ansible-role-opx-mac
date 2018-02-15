@@ -8,7 +8,7 @@ The ansible-role-opx-mac role requires an SSH connection for connectivity to a D
 Installation
 ------------
 
-    ansible-galaxy install open-switch.ansible-role-opx-mac
+    ansible-galaxy install open-switch.opx-mac
 
 Role variables
 --------------
